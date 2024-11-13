@@ -130,7 +130,7 @@
             margin-top: 20px;
             font-size: 0.8em;
         }
-        /* Fixed елемент */
+       
         .fixed-element {
             position: fixed;
             top: 10px;
